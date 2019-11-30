@@ -1,4 +1,4 @@
-## MIUI系统应用(内测版)更新合集
+## [MIUI系统应用(内测版)更新合集](http://www.lanzous.com/b838135)
 
 You can use the [editor on GitHub](https://github.com/MIUISystemAppUpdate/miui-daily.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
