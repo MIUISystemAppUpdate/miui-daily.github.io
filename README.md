@@ -7,7 +7,7 @@
 ### >【有问题卸载更新的方法】 在应用管理找到该应用，卸载更新即可，然后等官方推送  
 
 ### ↓点击文字前往ZivLW的蓝奏云网盘进行下载↓  
-|:----------:|:----------:|  
+
 | [系统桌面](https://vip.d0.baidupan.com/file/?A2UHOVloV2YACQszVGEFaQQ7Bj5Q6Aq7Ab1bugXiUM5Vs1qsD95U6VOYVqJX7FfqANIOSgMQVwUBTlIVVCVRZAMtB2FZMVctAGYLc1QxBTcEaQY0UCIKOQE3W28FYVBgVW1aPQ9lVO9TuVaaV+ZX0ADfDu0D6VfeAeBSz1S8UbYDlQfgWetXvwDfC3NUYQV0BDUGJVBpCmEBals4BQZQOFUxWjAPY1Q0UzBWOVcwV24AaQ44A3pXMwF1UmlUMFFkAzoHYFk1VzEAYAt7VHAFdARjBjFQPwo5AT9bcgVoUGBVelo/D2pUL1MyVmFXNFdjADkOaANuVzQBNVJhVDhRYQNmBzVZPVc2ADULaVRkBWIEawZhUDsKPgE1W2QFO1AzVWxaOg8xVDlTK1ZhV3NXPQB8Dn4DL1cwAXRSPVRsUW0DOwdjWTJXMQBuC2hUJgVwBDcGblBqCm4BO1tsBWxQZlVgWjwPYlQ5UzFWNlc6V3gAdA4tAzpXOQFxUmlUOVFlAzQHZVk1VzMAbgtpVDAFNwR4BnZQfwp/ATtbbAVsUGZVYVo0D2ZUN1MxVjZXNVdwAC8OYgMsV2gBN1JkVDlRfgM7B2FZKlcxAGILZVQuBTUEaAY3) | [小米设置](https://github.com/MIUISystemAppUpdate/MiSettings/releases) |  
 | ---------- | ---------- |   
 | 1        2 | 1        2 |   
