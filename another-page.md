@@ -1,9 +1,11 @@
----
-layout: default
----
+<html>
+<body>
 
-## Welcome to another page
+<?php
+$url=i7nrn8d;
+include 'lanzous.php';
+echo $result_url;
+?>
 
-_yay_
-
-[back](./)
+</body>
+</html>
