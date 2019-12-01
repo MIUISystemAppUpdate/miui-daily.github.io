@@ -3,7 +3,7 @@
  * @package Lanzou
  * @author Filmy
  * @version 1.2.3
- * @link https://miui-daily.github.io
+ * @link https://mlooc.cn
  */
 header('Access-Control-Allow-Origin:*');
 header('Content-Type:application/json; charset=utf-8');
