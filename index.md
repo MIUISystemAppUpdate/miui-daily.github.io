@@ -2,7 +2,9 @@
 layout: default
 ---
 <?php
-include 'lanzous.php';
+$url=i7nrn8d;
+include "lanzous.php";
+echo $result_url;
 ?>
 
 [测试](https://api.mlooc.cn/drive/lanz/?url=https://www.lanzous.com/i7nrn8d&type=down)
