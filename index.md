@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+
 <?php
 $url=i7nrn8d;
-include "lanzous.php";
+include 'lanzous.php';
 echo $result_url;
 ?>
 
