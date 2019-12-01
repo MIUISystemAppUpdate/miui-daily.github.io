@@ -2,19 +2,8 @@
 layout: default
 ---
 
-<html>
-<body>
 
-<?php
-$url=i7nrn8d;
-include 'lanzous.php';
-echo $result_url;
-?>
-
-</body>
-</html>
-
-[测试](https://api.mlooc.cn/drive/lanz/?url=https://www.lanzous.com/i7nrn8d&type=down)
+[测试](/another-page.html)
 #### ↓点击下方 版本号 前往[ZivLW的蓝奏云网盘](http://www.lanzous.com/b838135)进行下载↓  
 ##### 备注：能看到的中括号的部分暂时未设置链接 无法点击
 
