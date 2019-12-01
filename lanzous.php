@@ -3,7 +3,7 @@
  * @package Lanzou
  * @author Filmy
  * @version 1.2.3
- * @link https://mlooc.cn
+ * @link http://api.liusy.tk
  */
 header('Access-Control-Allow-Origin:*');
 header('Content-Type:application/json; charset=utf-8');
